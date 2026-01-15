@@ -27,3 +27,4 @@ This firmware was designed for Wireless testing purpose and education only.
 
 # Wirings
 
+![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/9b0184bb00c8e283be8a9f80250fd21c427a70f7/WiRing.png)
