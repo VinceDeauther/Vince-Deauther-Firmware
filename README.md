@@ -52,7 +52,7 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 
-**FLASH WEB FLASHER** [WEB FLASHER](https://nethercap-web-flasher-v2.vercel.app/)
+**FLASH WEB FLASHER** RTL8720DN BW16 [WEB FLASHER](https://nethercap-web-flasher-v2.vercel.app/)
 
 
 *CONNECT RTL8720DN BW16
@@ -69,7 +69,7 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 
-**FLASH WEB FLASHER**
+**FLASH WEB FLASHER**  ESP32 S3 Mini [WEB FLASHER](https://espressif.github.io/esptool-js/) 
 
 
 
