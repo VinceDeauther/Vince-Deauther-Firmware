@@ -2,8 +2,8 @@
    
 ![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/20575ecebd38f003cca7ce50bec265a20ac6c724/Vince%20Deauther.jpg)
 
-### Vince Firmware Deauther DualBand 2.4Ghz/5Ghz RTL8720dn (BW16) & ESP32 S3 mini /NRF,IR Transmitter
-### Vince Deauther (pronounced as /ˈVince/), is the first firmware running on RTL8720DN BW16 kit with a TFT screen Display.
+ ### Vince Firmware Deauther DualBand 2.4Ghz/5Ghz RTL8720dn (BW16) & ESP32 S3 mini /NRF,IR Transmitter
+### Vince Deauther (pronounced as /ˈVince/), is the first firmware running on RTL8720DN BW16 kit with a TFT Screen Display.
 
 
 # This firmware was designed for Wireless testing purpose and education only.
@@ -53,7 +53,7 @@
 **DOWNLOAD Vince FIRMWARE BIN**
 
 
-If your BW16 RTL8720Dn is not showing up in the device list or won't get recognized you will need to have [INSTALL THIS DRIVER](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)
+*If your BW16 RTL8720Dn is not showing up in the device list or won't get recognized you will need to have* [INSTALL THIS DRIVER](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)
 
 
 **FLASH WEB FLASHER** RTL8720DN BW16 [WEB FLASHER](https://nethercap-web-flasher-v2.vercel.app/)
@@ -79,13 +79,13 @@ If your BW16 RTL8720Dn is not showing up in the device list or won't get recogni
 **FLASH WEB FLASHER**  ESP32 S3 Mini [WEB FLASHER](https://espressif.github.io/esptool-js/) 
 
 
-If your C3Mini is not showing up in the device list or won't get recognized you will need to have [INSTALL THIS DRIVER](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
+*If your S3 Mini is not showing up in the device list or won't get recognized you will need to have* [INSTALL THIS DRIVER](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
 
 
 *CONNECT ESP32 S3 MINI
 
 
-*CHOSE FILE*
+*CHOOSE FILE*
 
 
 -ESP32 S3 ino.bin
