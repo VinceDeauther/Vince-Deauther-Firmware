@@ -1,4 +1,5 @@
 # Vince-Deauther-Firmware
+
 Vince Firmware Deauther DualBand 2.4Ghz/5Ghz RTL8720dn (BW16) & ESP32 S3 mini /NRF,IR Transmitter
 Vince Deauther (pronounced as /ˈVince/), is the first firmware running on RTL8720DN BW16 kit with a TFT screen Display.
 
@@ -20,15 +21,72 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 # CAN FIND MY STORE LINK
-**SHOPEE**[Link Text](https://s.shopee.ph/9fByZHXvKV)
 
-**FACEBOOK** : [Link Text](https://www.facebook.com/vince.hansel)
 
-**TIKTOK** : [Link Text](https://www.tiktok.com/@deauther2025)
+**SHOPEE**[link](https://s.shopee.ph/9fByZHXvKV)
 
-**YOUTUBE** : [Link Text](https://www.youtube.com/@VinceDeauther2025)
+
+**FACEBOOK** : [Link](https://www.facebook.com/vince.hansel)
+
+
+**TIKTOK** : [Link](https://www.tiktok.com/@deauther2025)
+
+
+**YOUTUBE** : [Link](https://www.youtube.com/@VinceDeauther2025)
+
 
 
 # Wirings
 
+
 ![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/9b0184bb00c8e283be8a9f80250fd21c427a70f7/WiRing.png)
+
+
+
+# UPLOADING FILE & FLASH
+
+
+
+**DOWNLOAD VINCE DEAUTHER FIRMWARE BIN**
+
+
+
+**FLASH WEB FLASHER** [WEB FLASHER](https://nethercap-web-flasher-v2.vercel.app/)
+
+
+*CONNECT RTL8720DN BW16
+
+
+*CHOOSE FILE ADD / VINCE FIRMWARE BIN
+
+
+*START FLASHING
+
+
+
+**DOWNLOAD ESP32 S3 BIN 3 FILE**
+
+
+
+**FLASH WEB FLASHER**
+
+
+
+*CONNECT ESP32 S3 MINI
+
+
+*CHOSE FILE*
+
+
+-ESP32 S3 ino.bin
+
+
+-ESP32 S3 ino.bootloader.bin
+
+
+-ESP32 S3 ino.partitions.bin
+
+
+
+
+
