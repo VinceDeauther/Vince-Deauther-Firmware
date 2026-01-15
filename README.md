@@ -48,7 +48,7 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 
-**DOWNLOAD VINCE DEAUTHER FIRMWARE BIN**
+**DOWNLOAD Vince FIRMWARE BIN**
 
 
 
