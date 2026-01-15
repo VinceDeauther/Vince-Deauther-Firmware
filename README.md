@@ -89,5 +89,20 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 
+# DONATION
+**GCASH QR CODE**
+![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/3110e7db7df0fb95f2366a7e8183e796927f8990/gcash%20account.jpg)
+
+# SPECIAL THANKS FOR DONATORS
+-
+-
+-
 
 
+# Support / Collaboration
+
+Got questions, ideas, or want to collaborate?
+MESSAGE MY FACEBOOK PAGE
+
+# BIG THANKS 
+**Uchiha Madara**
