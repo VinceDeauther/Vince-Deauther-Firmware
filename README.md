@@ -24,7 +24,7 @@ This firmware was designed for Wireless testing purpose and education only.
 # CAN FIND MY STORE LINK
 
 
-**SHOPEE**[link](https://s.shopee.ph/9fByZHXvKV)
+**SHOPEE** :[link](https://s.shopee.ph/9fByZHXvKV)
 
 
 **FACEBOOK** : [Link](https://www.facebook.com/vince.hansel)
