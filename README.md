@@ -89,6 +89,10 @@ This firmware was designed for Wireless testing purpose and education only.
 
 
 
+If your BW16 RTL8720Dn is not showing up in the device list or won't get recognized you will need to have [INSTALL THIS DRIVER](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)
+
+
+
 # DONATION
 **GCASH QR CODE**
 ![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/3110e7db7df0fb95f2366a7e8183e796927f8990/gcash%20account.jpg)
