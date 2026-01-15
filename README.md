@@ -9,9 +9,13 @@ This firmware was designed for Wireless testing purpose and education only.
 # MATERIALS
 
 **TFT_Display_1.69**
+
 **RTL8720DN (BW16)**
+
 **ESP32 S3 Mini** (optional)
+
 **NRF24l01** (optional)
+
 **IR-Transmitter** (optional)
 
 
