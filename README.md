@@ -26,16 +26,22 @@
 # CAN FIND MY STORE LINK
 
 
-**SHOPEE** :[link](https://s.shopee.ph/9fByZHXvKV)
+**SHOPEE** :[STORE](https://s.shopee.ph/9fByZHXvKV)
+
+-
+
+**FACEBOOK** : [ACCOUNT](https://www.facebook.com/vince.hansel)
+
+-
+
+**TIKTOK** : [ACCOUNT](https://www.tiktok.com/@deauther2025)
+
+-
+
+**YOUTUBE** : [CHANNEL](https://www.youtube.com/@VinceDeauther2025)
 
 
-**FACEBOOK** : [Link](https://www.facebook.com/vince.hansel)
 
-
-**TIKTOK** : [Link](https://www.tiktok.com/@deauther2025)
-
-
-**YOUTUBE** : [Link](https://www.youtube.com/@VinceDeauther2025)
 
 
 
@@ -46,57 +52,94 @@
 
 
 
-# UPLOADING FILE & FLASH
 
+
+
+
+# UPLOADING FILE & FLASH
 
 
 **DOWNLOAD Vince FIRMWARE BIN**
 
 
+
 *If your BW16 RTL8720Dn is not showing up in the device list or won't get recognized you will need to have* [INSTALL THIS DRIVER](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip)
+
+
+
 
 
 **FLASH WEB FLASHER** RTL8720DN BW16 [WEB FLASHER](https://nethercap-web-flasher-v2.vercel.app/)
 
 
+
+
 *CONNECT RTL8720DN BW16
 
 
+
+
 *CHOOSE FILE ADD / VINCE FIRMWARE BIN
+
+
 
 
 *START FLASHING
 
 
 
+![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/d57050a3928f6f2316b5680a377acae933089152/FLASHING/BW16/Screenshot%202026-01-15%20234053.png)
+
+
+
+
+
+
+
+
 **DOWNLOAD ESP32 S3 BIN 3 FILE**
 
--
--
--
 
 
-**FLASH WEB FLASHER**  ESP32 S3 Mini [WEB FLASHER](https://espressif.github.io/esptool-js/) 
 
 
 *If your S3 Mini is not showing up in the device list or won't get recognized you will need to have* [INSTALL THIS DRIVER](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
 
 
+
+
+**FLASH WEB FLASHER**  ESP32 S3 Mini [WEB FLASHER](https://espressif.github.io/esptool-js/) 
+
+
+
+
 *CONNECT ESP32 S3 MINI
+
 
 
 *CHOOSE FILE*
 
 
+
 -ESP32 S3 ino.bin
+
 
 
 -ESP32 S3 ino.bootloader.bin
 
 
+
 -ESP32 S3 ino.partitions.bin
 
 
+
+![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/d57050a3928f6f2316b5680a377acae933089152/FLASHING/BW16/ESP32%20S3/Screenshot%202026-01-15%20234038.png)
+
+
+*
+*
+*
+*
 
 
 
@@ -105,9 +148,16 @@
 ![image alt](https://github.com/VinceDeauther/Vince-Deauther-Firmware/blob/3110e7db7df0fb95f2366a7e8183e796927f8990/gcash%20account.jpg)
 
 # SPECIAL THANKS FOR DONATORS
--
--
--
+
+-Donator Name:
+
+-Donator Name:
+
+-Donator Name:
+
+-Donator Name:
+
+-Donator Name:
 
 
 # Support / Collaboration
