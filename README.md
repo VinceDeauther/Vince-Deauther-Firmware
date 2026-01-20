@@ -23,7 +23,7 @@
 **IR-Transmitter** (optional)
 
 
-# CAN FIND MY STORE LINK
+# CAN FIND MY PAGA LINK
 
 
 **SHOPEE** :[STORE](https://s.shopee.ph/9fByZHXvKV)
